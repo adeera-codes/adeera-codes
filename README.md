@@ -14,8 +14,6 @@
 - 🤝 I’m looking for help with Open-source contributions, bioinformatics tools, and improving coding skills
 
 - 📫 How to reach me adheerarajput01@gmail.com
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
